@@ -1,0 +1,30 @@
+/* Estilo para o body */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilo para o elemento com ID "titulo-principal" */
+#titulo-principal {
+    color: #0056b3;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+/* Estilo para os elementos com a classe "descricao" */
+.descricao {
+    font-size: 1.2rem;
+    color: #666;
+    margin: 10px 0;
+}
+
+/* Estilo para o elemento com ID "caixa" */
+#caixa {
+    background-color: #e0e0e0;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
