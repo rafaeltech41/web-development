@@ -26,5 +26,3 @@ Para dúvidas ou sugestões, entre em contato com [seu email] ou abra uma *issue
 
 ---
 
-Espero que este repositório seja útil para você no desenvolvimento das suas habilidades e no acompanhamento do curso!
-
