@@ -4,12 +4,11 @@ Este repositório contém exercícios e exemplos relacionados às aulas do curso
 
 ## Estrutura do Repositório
 
-- **exercicios/**: Pasta com os exercícios resolvidos e suas soluções.
 - **exemplos/**: Pasta contendo exemplos de código fornecidos durante as aulas.
 
 ## Como Usar
 
-1. **Navegue pelos diretórios**: Explore as pastas `exercicios` e`exemplos`.
+1. **Navegue pelos diretórios**: Explore a pasta `exemplos`.
 2. **Revise os exemplos e exercícios**: Utilize os exemplos e exercícios para praticar e reforçar o aprendizado.
 
 ## Contribuições
@@ -18,7 +17,7 @@ Se você desejar contribuir com mais materiais ou correções, sinta-se à vonta
 
 ## Licença
 
-Este repositório é fornecido para fins educacionais e não possui uma licença específica. O uso e distribuição dos materiais devem seguir as diretrizes e políticas do SENAI.
+Este repositório é fornecido para fins educacionais e não possui uma licença específica.
 
 ## Contato
 
